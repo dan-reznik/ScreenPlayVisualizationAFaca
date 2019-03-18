@@ -1,0 +1,85 @@
+Numero da Cena,Nome da Cena,Abrev Cena,Lugar,Personagens,Tempo,Ano da Cena
+1,Reza em Iorubá,Iorubá,SG,"PSL, FIG1",Forward,2015
+2,Leitura da Torá,Torá,PoA,FIG2,Forward,2014
+3,Reencontro com Filha,Reencontro,Ale,"D, E",to,2013
+4,Memorial dos Mortos,Memorial,Ale,"D, E",t1,2013
+5,Gueto de Varsóvia,Gueto,Pol,"D, E",t2,2013
+6,Casa do Bisavô,Casa,Pol,"D, E",t3,2013
+7,Cemitério de Praga,Praga,Tch,"D, E",t4,2013
+8,Sinagoga de Budapeste,Budapeste,Hun,"D, E",t5,2013
+9,Campo de Auschwitz,Auschwitz,Pol,"D, E",t6,2013
+10,Anne Frank,Anne Frank,Hol,"D, E",t7,2013
+11,Museu e Despedida,Despedida,Ale,"D, E",t8,2013
+12,Palestra sobre Viagem,Palestra,PoA,"D, FIG12",t9,2014
+13,Agressão,Agressão,PoA,"D, GAN",t10,2014
+14,Hospital,Hospital 1,PoA,"D, C",t11,2014
+15,Barrado na Sinagoga,Barrado 2,PoA,"D, SEG15",t12,2014
+16,sobre ser Barrado,Conversa,PoA,"D, C",t13,2014
+17,Máquina Fotográfica,Fotos,Arg,"D, C, SEG17",Flashback,2006
+18,Namoro e sobre,Namoro,PoA,"D, C",t14,2014
+19,Barrado na Sinagoga,Barrado 1,Cps,"D, W, FIG19",Flashback,1992
+20,Bar Mitzvá,Bar Mitzvá,Rio,"D, RG, AL",Flashback,1981
+21,sobre ser Judeu,Ser Judeu,Cps,"D, W",Flashback,1992
+22,Daniel Bêbado,Bêbado,PoA,"D, C",t15,2014
+23,Rabino Mendel,Rabino 1,PoA,"D, M",t16,2014
+24,Jantar de Shabat,Shabat,PoA,"D, C, RM, FRM",t17,2014
+25,Crise de Daniel,Crise,PoA,"D, M",t18,2014
+26,Daniel na Sinagoga,Sinagoga,PoA,"D, TL, RM, FRM",t19,2014
+27,Inauguração da Sinagoga,Inauguração,Nit,"BD, AR",Flashback,1928
+28,Bisavô David,Bisavô,Nit,"BD, AR, AL",Flashback,1935
+29,As dificudades,Dificudades,Nit,BD,Flashback,1940
+30,Carta ao Rebe,Carta,PoA,"D, RM",t20,2014
+31,Briga do Casal,Briga,PoA,"D, C",t21,2014
+32,Mico na Vernissage,Vernissage,PoA,"D, C, FIG32",Flashback,2013
+33,Carta e Resposta,Resposta,PoA,"D, RM",t22,2014
+34,Saúde do Pai,Pai,PoA,"D, C",t23,2014
+35,Pescaria Infeliz 1,Pescaria 1,Nit,"D, W, Ez",Flashback,1976
+36,Pescaria Infeliz 2,Pescaria 2,Rio,"D, W",Flashback,1980
+37,Questionamento,Questões,PoA,"D, C",t24,2014
+38,Avião pro Rio,Avião,Rio,"D, FIG38",t25,2014
+39,RV/Óculos 3D,Óculos 3D,Rio,"D, E",t26,2014
+40,Hospital com Pai,Hospital 2,Rio,"D, W",t26,2014
+41,Reza no Hospital,Reza,Rio,"D, W",t27,2014
+42,Rabino no Hospital,Rabino 2,Rio,"D, W, RM, FE",t28,2014
+43,Beijos e Amassos,Beijos,Rio,"D, FE",t30,2014
+44,Rabino Furioso,Rabino 3,Rio,"D, FE, RM",t31,2014
+45,Capela do Cemitério,Capela,Rio,"D, W, FIG45",t32,2014
+46,Cinzas ao Mar,Cinzas,Rio,"D, FIG46",t33,2014
+47,Asilo com Avó,Avó 1,Nit,"D, AR",t34,2014
+48,Briga e Morte,Morte,Nit,"BD, AR, AL",Flashback,1947
+49,Asilo com Avó,Avó 2,Nit,"D, AR",t35,2014
+50,Na Loja de Joias,Loja,Nit,"D, AK",t36,2014
+51,Morro com Oliveira,Oliveira,Nit,"D, SO",t37,2014
+52,Na Ponte Rio-Niterói,Ponte,Rio,"D, E",t38,2014
+53,No Galpão de objetos,Galpão,Nit,"D, E, CB",t39,2014
+54,Cemitério com Filha,Cemitério 1,Rio,"D, E",t40,2014
+55,Escola Israelita,Escola,Rio,"D, MR, FIG55",Flashback,1980
+56,Cemitério com Filha,Cemitério 2,Rio,"D, E",t41,2014
+57,Avô e Pai,Avô,Nit,"AL, W",Flashback,1958
+58,Dinheiro pro Bar Mitzvá,Dinheiro,Nit,"D, AL, W",Flashback,1981
+59,Decisão da Elena,Decisão,Rio,"D, E",t42,2014
+60,Primeira Aula,Aula,Nit,"E, TL",t43,2014
+61,Jogo de Búzios,Jogo,SG,"D, PSL, M",t44,2014
+62,Compra da Faca,Faca 1,SG,"PSL, CB, FIG62",Flashback,1950
+63,Convite pro Terreiro,Convite,SG,"D, PSL, M",t45,2014
+64,Mergulho Cagarras,Mergulho,Rio,"D, E",t46,2014
+65,No Barco na Volta,Barco 1,Rio,"D, E",t47,2014
+66,Yom Kipur,Yom Kipur,Nit,"AL, AR, W, D",Flashback,1977
+67,Apartamento do Avô,Apartamento,Nit,"AL, AR, W, D",Flashback,1977
+68,Cerimônia de Kaparot,Kaparot,PoA,"D, RM, FE, FRM",Flashback,2010
+69,Na Marina da Glória,Marina,Rio,"D, E",t48,2014
+70,Elena como Rabina,Rabina,Nit,"E, FIG70",Forward,2038
+71,Cerimônia de Sacrifício,Sacrifício,SG,"D, PSL, M",t49,2014
+72,Barco das Iaô,Barco 2,SG,"D, PSL, M",t50,2014
+73,Encontro com a Faca,Faca 2,SG,"D, PSL, M",t51,2014
+74,Criando Intimidade,Intimidade,SG,"D, M",t52,2014
+75,Entrega da Faca,Faca 3,SG,"D, PSL, M",t53,2014
+76,Bat Mitzvá,Bat Mitzvá,Isr,"D, E, FIG76",t54,2018
+77,Festa do Bat,Festa 1,Ale,"D, E, FIG77",t55,2018
+78,Duas Festas,2 Festas,Nit,"AL, AR, W",Flashback,1954
+79,Festa do Bat,Festa 2,Ale,"D, E, FIG79",t56,2018
+80,Elena na Escola,Yeshivá,Isr,"E, FIG80",t57,2020
+81,Daniel como Ogã,Ogã,SG,"D, PSL, M",t58,2020
+82,Daniel e Orientandos,Orientandos,PoA,"D, FIG82",t59,2028
+83,Formatura da Elena,Formatura,Isr,"D, E, FIG83",t60,2028
+84,Escrita da Estória,Escrita,Isr,"D, E",t61,2028
